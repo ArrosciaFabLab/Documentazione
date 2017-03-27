@@ -2,7 +2,7 @@
 
 Benvenuto sul portale che ospita tutta la documentazione tecnica di Arroscia FabLab! Troverai manuali per il montaggio dei kit, tutorial, trucchi e tecniche per procedere al meglio suoi tuoi progetti. 
 
-Tutta la documentazione scaricabile dal portale di GitHub si trova anche in formato Web (anche scaricabile in formato pdf dall'apposito menù) dal portale documetale dell'Arroscia FabLab di Dozuki [Portale delle Guide di Arroscia FabLab](http://arrosciafablab.dozuki.com/)
+Tutta la documentazione scaricabile dal portale di GitHub si trova anche in formato Web (anche scaricabile in formato pdf dall'apposito menù) dal [portale documetale dell'Arroscia FabLab di Dozuki](http://arrosciafablab.dozuki.com/)
 
 # Termini dell'utilizzo
 
