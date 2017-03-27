@@ -1,4 +1,4 @@
-# Documentazione sulla Stampa 3D
+# Esempi di stampe 3D
 
 Qui puoi trovare le istruzioni per stampare esempi di oggetti 3D che sono stati direttamente provati all'Arroscia FabLab. 
 
