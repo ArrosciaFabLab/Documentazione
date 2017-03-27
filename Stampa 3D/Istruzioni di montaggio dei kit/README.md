@@ -1,4 +1,4 @@
-# Documentazione sulla Stampa 3D
+# Istruzioni di montaggio dei kit delle stampanti 3D
 
 Qui trovi le guide dettagliate di assemblaggio delle Stampanti 3D reperibili in kit. 
 
